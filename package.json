@@ -1,0 +1,13 @@
+{
+  "name": "each-count",
+  "description": "A small repo to reproduce bug in jest each",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
